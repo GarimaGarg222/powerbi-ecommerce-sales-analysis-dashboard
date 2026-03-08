@@ -52,6 +52,8 @@ powerbi-ecommerce-sales-analysis-dashboard
 ├── ecommerce_dashboard.pdf
 ├── Orders.csv
 ├── Details.csv
+├── dark-gradient.png
+
 ```
 
 
